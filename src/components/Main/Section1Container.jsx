@@ -14,7 +14,7 @@ const Section1ContainerItemStyle = styled.section`
     height: 75px;
     display: flex;
     align-items: center;
-    gap: 3ss0px;
+    gap: 30px;
 `;
 
 const Section1ContainerItemParagraph1Style = styled.p`

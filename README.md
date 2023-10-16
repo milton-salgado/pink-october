@@ -75,7 +75,7 @@ Versão atual: 1.0 (primeira versão)
 
 Ao fazer esse projeto, aprendi a:
 
-- Utilizar funções como o "useState" (hook) e "map", da biblioteca React JavaScript e da linguagem JavaScript
+- Utilizar a função "map" para manipular conjuntos de elementos, com a linguagem JavaScript
 - Revisar o conceito de componentização com React JavaScript
 - Fixar a estilização de elementos utilizando a biblioteca "Styled Components" do React
 - Criar uma página simples sobre o mês oficial do combate ao câncer de mama, utilizando a biblioteca React JavaScript
